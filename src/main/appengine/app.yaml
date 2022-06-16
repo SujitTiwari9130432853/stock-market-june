@@ -1,0 +1,4 @@
+runtime: java
+env: Standard
+runtime_config:
+  jdk: openjdk8
